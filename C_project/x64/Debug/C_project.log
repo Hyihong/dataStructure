@@ -1,0 +1,8 @@
+﻿  x.c
+  partB.c
+f:\c_project\c_project\partb.c(19): warning C4013: “rand”未定义；假设外部返回 int
+  hello.c
+  正在生成代码...
+  hotel.h
+  C_project.vcxproj -> F:\C_project\x64\Debug\C_project.exe
+  C_project.vcxproj -> F:\C_project\x64\Debug\C_project.pdb (Full PDB)
