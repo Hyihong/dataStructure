@@ -146,8 +146,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="hello.c" />
+    <ClCompile Include="diverseTwo.c" />
+    <ClCompile Include="maximumSubsequence.c" />
     <ClCompile Include="hotel.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C_project.rc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

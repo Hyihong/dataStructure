@@ -15,11 +15,19 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="hello.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="hotel.h">
       <Filter>头文件</Filter>
     </ClCompile>
+    <ClCompile Include="maximumSubsequence.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="diverseTwo.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C_project.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
   </ItemGroup>
 </Project>

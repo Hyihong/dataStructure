@@ -4,7 +4,7 @@
 #include <Windows.h>i
 #include<stdlib.h>
 
-void main() {
+void _main() {
 
 	int k;
 	scanf_s("%d", &k);
