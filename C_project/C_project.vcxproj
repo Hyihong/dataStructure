@@ -146,9 +146,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="diverseTwo.c" />
+    <ClCompile Include="binarySearch.c" />
     <ClCompile Include="maximumSubsequence.c" />
     <ClCompile Include="hotel.h" />
+    <ClCompile Include="test.c" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="C_project.rc" />

@@ -21,7 +21,10 @@
     <ClCompile Include="maximumSubsequence.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="diverseTwo.c">
+    <ClCompile Include="binarySearch.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

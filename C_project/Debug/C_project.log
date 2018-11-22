@@ -1,5 +1,4 @@
-﻿  diverseTwo.c
-f:\c_project\c_project\diversetwo.c(27): warning C4101: “P”: 未引用的局部变量
-f:\c_project\c_project\diversetwo.c(26): warning C4101: “X”: 未引用的局部变量
+﻿  test.c
+f:\c_project\c_project\test.c(51): warning C4033: “printfLink”必须返回值
   C_project.vcxproj -> F:\C_project\Debug\C_project.exe
   C_project.vcxproj -> F:\C_project\Debug\C_project.pdb (Full PDB)
