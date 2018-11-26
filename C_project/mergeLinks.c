@@ -15,7 +15,7 @@ List Merge(List L1, List L2);//按非递减顺序合并链表，返回指向头�
 List createLink();
 printfLink(List L );
 
-int main() {
+int main_mergeLinks() {
    //后缀表达式
 	List L1 = createLink();
 	List L2 = createLink();

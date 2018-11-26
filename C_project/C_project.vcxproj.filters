@@ -24,7 +24,10 @@
     <ClCompile Include="binarySearch.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="test.c">
+    <ClCompile Include="mergeLinks.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="yiyuanduoxiangshi.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

@@ -149,7 +149,8 @@
     <ClCompile Include="binarySearch.c" />
     <ClCompile Include="maximumSubsequence.c" />
     <ClCompile Include="hotel.h" />
-    <ClCompile Include="test.c" />
+    <ClCompile Include="mergeLinks.c" />
+    <ClCompile Include="yiyuanduoxiangshi.c" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="C_project.rc" />
