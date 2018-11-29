@@ -30,6 +30,9 @@
     <ClCompile Include="yiyuanduoxiangshi.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="ReversingLinkedList.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="C_project.rc">

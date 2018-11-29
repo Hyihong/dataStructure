@@ -26,7 +26,7 @@ List Polynomial_add(List L1, List L2);
 List Polynomial_multip(List L1, List L2);
 List DeleteInvalid(List L);
 
-int main() {
+int main_yiyuanduoxiangshi() {
 
 	List L1 = getLink();
 	List L2 = getLink();
