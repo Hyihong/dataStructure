@@ -79,7 +79,7 @@ int judge(int M, int N , int* a ) {
 	return 1;
 }
 
-int main()
+int pop_main()
 {
 	int M, N, K;
 	scanf("%d %d %d", &M, &N, &K);

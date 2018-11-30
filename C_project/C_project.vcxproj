@@ -150,7 +150,8 @@
     <ClCompile Include="maximumSubsequence.c" />
     <ClCompile Include="hotel.h" />
     <ClCompile Include="mergeLinks.c" />
-    <ClCompile Include="ReversingLinkedList.c" />
+    <ClCompile Include="popSequence.c" />
+    <ClCompile Include="tree.c" />
     <ClCompile Include="yiyuanduoxiangshi.c" />
   </ItemGroup>
   <ItemGroup>
