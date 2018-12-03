@@ -1,5 +1,4 @@
-﻿  tree.c
-f:\c_project\c_project\tree.c(54): warning C4715: “findTreeRoot”: 不是所有的控件路径都返回值
-f:\c_project\c_project\tree.c(127): warning C4715: “isomorphism”: 不是所有的控件路径都返回值
+﻿  tree_base.c
+f:\c_project\c_project\tree_base.c(19): warning C4715: “findroot”: 不是所有的控件路径都返回值
   C_project.vcxproj -> F:\C_project\Debug\C_project.exe
   C_project.vcxproj -> F:\C_project\Debug\C_project.pdb (Full PDB)

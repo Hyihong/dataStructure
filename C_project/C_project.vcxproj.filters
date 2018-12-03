@@ -33,7 +33,10 @@
     <ClCompile Include="popSequence.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="tree.c">
+    <ClCompile Include="tree_isomorphism.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tree_base.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
