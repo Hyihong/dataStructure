@@ -41,7 +41,7 @@ void printfLeaf(PtrToTree T, int  root,int N) {
 
 }
 
-int main()
+int main_tree_base()
 {
 	/*******建树并打印出所有的叶子(从上到下，从左到右)******/
 	//int N;
