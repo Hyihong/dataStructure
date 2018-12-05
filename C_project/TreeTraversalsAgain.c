@@ -79,7 +79,7 @@ void postorder(PtrToNode T) {
 	printf("%d ",T->data);
 }
 
-int main()
+int main_tree1()
 {
 	int N;
 	scanf( "%d", &N );

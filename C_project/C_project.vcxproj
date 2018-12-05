@@ -151,6 +151,7 @@
     <ClCompile Include="hotel.h" />
     <ClCompile Include="mergeLinks.c" />
     <ClCompile Include="popSequence.c" />
+    <ClCompile Include="tree2_base.c" />
     <ClCompile Include="TreeTraversalsAgain.c" />
     <ClCompile Include="tree_base.c" />
     <ClCompile Include="tree_isomorphism.c" />

@@ -1,4 +1,4 @@
-﻿  TreeTraversalsAgain.c
-f:\c_project\c_project\treetraversalsagain.c(70): warning C4715: “generateTree”: 不是所有的控件路径都返回值
+﻿  tree2_base.c
+f:\c_project\c_project\tree2_base.c(137): warning C4715: “FindMax”: 不是所有的控件路径都返回值
   C_project.vcxproj -> F:\C_project\Debug\C_project.exe
   C_project.vcxproj -> F:\C_project\Debug\C_project.pdb (Full PDB)
