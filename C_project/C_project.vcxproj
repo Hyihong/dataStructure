@@ -155,6 +155,7 @@
     <ClCompile Include="TreeTraversalsAgain.c" />
     <ClCompile Include="tree_base.c" />
     <ClCompile Include="tree_isomorphism.c" />
+    <ClCompile Include="val.c" />
     <ClCompile Include="yiyuanduoxiangshi.c" />
   </ItemGroup>
   <ItemGroup>

@@ -45,6 +45,9 @@
     <ClCompile Include="tree2_base.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="val.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="C_project.rc">
